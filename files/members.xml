@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<users>
+  <user>
+    <id>2</id>
+    <firstname>gemalyn</firstname>
+    <lastname>cepe</lastname>
+    <address>carmen, bohol</address>
+  </user>
+  <user>
+    <id>3</id>
+    <firstname>lee</firstname>
+    <lastname>apilinga</lastname>
+    <address>bacolod</address>
+  </user>
+  <user>
+    <id>4</id>
+    <firstname>julyn</firstname>
+    <lastname>divinagracia</lastname>
+    <address>eb magalona</address>
+  </user>
+  <user>
+    <id>5</id>
+    <firstname>cristine</firstname>
+    <lastname>demapanag</lastname>
+    <address>talisay</address>
+  </user>
+  <user>
+    <id>12</id>
+    <firstname>2</firstname>
+    <lastname>3</lastname>
+    <address>4</address>
+  </user>
+</users>
